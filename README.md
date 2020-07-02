@@ -1,2 +1,2 @@
 # ICE
-Intrusion Counter measures Electronics
+Intrusion Countermeasures Electronics
